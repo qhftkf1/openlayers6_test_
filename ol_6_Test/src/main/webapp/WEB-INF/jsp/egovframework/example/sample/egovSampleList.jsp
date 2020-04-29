@@ -42,7 +42,7 @@
 <body style="text-align:center; margin:0 auto; display:inline; padding-top:100px;">
      <h2>My Map</h2>
     <div id="map" class="map"></div>
-	
+	song
 	<script>
 	
 	 var map = new ol.Map({
