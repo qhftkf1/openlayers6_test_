@@ -44,6 +44,9 @@
     <div id="map" class="map"></div>
 	song
 	song2
+	feature_test_#1
+	feature_test_#2
+	feature_test_#3
 	<script>
 	
 	 var map = new ol.Map({
