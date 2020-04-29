@@ -43,6 +43,7 @@
      <h2>My Map</h2>
     <div id="map" class="map"></div>
 	song
+	song2
 	<script>
 	
 	 var map = new ol.Map({
