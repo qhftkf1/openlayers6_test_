@@ -46,6 +46,7 @@
 	song2
 	feature_test_#1
 	feature_test_#2
+	feature_3_test#1
 	<script>
 	
 	 var map = new ol.Map({
